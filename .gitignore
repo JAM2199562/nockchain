@@ -7,3 +7,4 @@ test-follower
 target
 assets/*.jam
 !crates/nockapp/test-jams
+.vscode/settings.json
